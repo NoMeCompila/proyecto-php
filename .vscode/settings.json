@@ -1,0 +1,33 @@
+{
+    "sqltools.connections": [
+        {
+            "mysqlOptions": {
+                "authProtocol": "default"
+            },
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 3306,
+            "driver": "MySQL",
+            "name": "MySQL",
+            "database": "mydb",
+            "username": "root",
+            "connectionTimeout": 60,
+            "password": ""
+        },
+        {
+            "mysqlOptions": {
+                "authProtocol": "default"
+            },
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 3306,
+            "driver": "MySQL",
+            "name": "ASDAS",
+            "group": "ASDASD",
+            "database": "test",
+            "username": "root",
+            "connectionTimeout": 60,
+            "password": ""
+        }
+    ]
+}
